@@ -6,24 +6,12 @@ header {
   height: 100%;
   background-image: url('http://crooksandliars.com/files/primary_image/15/11/ap_bernie-sanders_ap-photo5.jpg');
   background-size: cover;
-  color: white;
 }
 
 h1, h2 {
   color: white;
-  margin: 0px;
-}
-
-.tribute-quote {
-  width: 250px;
-  margin-right: 0px;
-  float: left;
-  margin: 30px;
 }
 
 .tribute-title {
-  margin: 30px 40px;
-}
-.btn {
-  margin: 10px 0px;
+  padding: 50px;
 }
